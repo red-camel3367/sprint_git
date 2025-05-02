@@ -1,5 +1,6 @@
 # 시크릿 폴더 무시하기
-./secret
+secret/
+test/
 
 # 시크릿 txt 파일 무시하기
 mysecret.txt
