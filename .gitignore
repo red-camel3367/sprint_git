@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 #
-Part4_Data_Engineering/dataset/
+dataset/
 
